@@ -1,5 +1,5 @@
 // Centralized API client for the Aurelia backend.
-export const API_BASE = "https://aurelia-backend.onrender.com/api/v1";
+export const API_BASE = "https://alrauf-backend.onrender.com/api/v1";
 
 // ---------- token helpers ----------
 const USER_TOKEN_KEY = "aurelia_user_token";
